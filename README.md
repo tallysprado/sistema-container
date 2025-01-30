@@ -1,5 +1,5 @@
 # SistemaContainer
-####### correções em andamento -> deletar usuário associado à disciplina
+###### correções em andamento -> deletar usuário associado à disciplina
 
 #### 1. Abra o terminal dentro do diretório e execute o comando:
 ```shell script
