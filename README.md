@@ -6,6 +6,7 @@ docker-compose up --build
 ##### Aplicacão disponível em <http://127.0.0.1:4200>
 ##### Usuário: __universidade__
 ##### Senha: __123__
+##### Após a construcão do container, deve-se aguardar em torno de 1 minuto para a aplicacão rodar.
 _____________________________________________________________________________________________________________________________
 ##### O console de administrador do Keycloak é acessado em <http://127.0.0.1:8080>
 ##### Configuração do banco de dados:
