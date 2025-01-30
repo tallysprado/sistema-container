@@ -87,7 +87,3 @@
     networks:
         services-network:
             driver: bridge
-        keycloak-network:
-            driver: bridge
-        backend-network:
-            driver: bridge
