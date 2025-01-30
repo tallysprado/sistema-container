@@ -1,0 +1,55 @@
+.spacer {
+  flex: 1 1 auto;
+}
+.sidenav-container {
+  width: 500px;
+  height: 100%;
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+
+.sidenav-content {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  border-radius: 0 !important;
+  align-items: start;
+  padding: 2rem;
+  justify-content: center;
+}
+
+.sidenav {
+  padding: 0;
+  margin: 0;
+  width: 30vh;
+  border: 0;
+  height: 100%;
+  background: #f0f0f0;
+}
+mat-list {
+  width: 100%;
+}
+mat-list-item {
+  cursor: pointer;
+  width: 100%;
+}
+mat-list-item:hover {
+  cursor: pointer;
+  background-color: #e0e0e0;
+  width: 100%;
+}
+mat-accordion mat-expansion-panel mat-panel-title mat-expansion-panel-header mat-list-item mat-list-item-content mat-list {
+  border-radius: 0 !important;
+}
+
+
+@media (max-width: 768px) {
+
+  .sidenav-container {
+    width: 150px;
+    height: 100%;
+    width: 100%;
+  }
+}
+
